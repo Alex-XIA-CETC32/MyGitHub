@@ -1,0 +1,17 @@
+*.log
+*.DS_Store
+*.pyc
+*.mo
+*.egg-info
+*.egg
+*.EGG
+*.EGG-INFO
+*.tmp*
+5.Technical_Salon/**/*.rar
+5.Technical_Salon/**/*.html
+5.Technical_Salon/**/*.pdf
+.ipynb_checkpoints
+1.Notebooks/.ipynb_checkpoints/
+Github-Forking.md
+**/tmp
+
